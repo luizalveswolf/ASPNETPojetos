@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].[Produto] (
+    [ProdutoId] INT IDENTITY (1, 1) NOT NULL,
+    [Nome]      NVARCHAR (150)  NULL,
+    [Descricao] NVARCHAR (500)  NULL,
+    [Categoria] NVARCHAR (100)  NULL,
+    [Preco]     DECIMAL (16, 2) NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
