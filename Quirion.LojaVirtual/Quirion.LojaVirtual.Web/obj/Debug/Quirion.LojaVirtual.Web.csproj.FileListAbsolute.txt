@@ -22,3 +22,8 @@ C:\Users\luiza\OneDrive\Documentos\GITHUB\ASPNETPojetos\Quirion.LojaVirtual\Quir
 C:\Users\luiza\OneDrive\Documentos\GITHUB\ASPNETPojetos\Quirion.LojaVirtual\Quirion.LojaVirtual.Web\obj\Debug\Quirion.LojaVirtual.Web.csproj.CoreCompileInputs.cache
 C:\Users\luiza\OneDrive\Documentos\GITHUB\ASPNETPojetos\Quirion.LojaVirtual\Quirion.LojaVirtual.Web\obj\Debug\Quirion.LojaVirtual.Web.dll
 C:\Users\luiza\OneDrive\Documentos\GITHUB\ASPNETPojetos\Quirion.LojaVirtual\Quirion.LojaVirtual.Web\obj\Debug\Quirion.LojaVirtual.Web.pdb
+C:\Users\luiza\OneDrive\Documentos\GITHUB\ASPNETPojetos\Quirion.LojaVirtual\Quirion.LojaVirtual.Web\bin\EntityFramework.dll
+C:\Users\luiza\OneDrive\Documentos\GITHUB\ASPNETPojetos\Quirion.LojaVirtual\Quirion.LojaVirtual.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\luiza\OneDrive\Documentos\GITHUB\ASPNETPojetos\Quirion.LojaVirtual\Quirion.LojaVirtual.Web\bin\Quirion.LojaVirtual.Dominio.dll.config
+C:\Users\luiza\OneDrive\Documentos\GITHUB\ASPNETPojetos\Quirion.LojaVirtual\Quirion.LojaVirtual.Web\bin\EntityFramework.xml
+C:\Users\luiza\OneDrive\Documentos\GITHUB\ASPNETPojetos\Quirion.LojaVirtual\Quirion.LojaVirtual.Web\bin\EntityFramework.SqlServer.xml
